@@ -66,3 +66,6 @@ test("There are at least 500 words on the page", () => {
 
 const console = document.getElementById("tests");
 prettify.toHTML(run(), console);
+
+let element_title = document.getElementById('title');
+element_title.innerText = 'My Background';

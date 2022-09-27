@@ -12,9 +12,10 @@ body {
   background-image:url("https://cdn.pixabay.com/photo/2015/01/09/11/11/office-594132_960_720.jpg");
   background-size:cover;
   background-position:center;
-  background-repeat:no-repeat;
+  background-repeat: repeat;
   color:black;
 }
+
 
 
 
